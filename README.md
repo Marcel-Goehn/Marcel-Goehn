@@ -15,7 +15,7 @@
 ###
 
 <table width="100%">
-  <tr>
+  <tr  width="100%">
     <td valign="top" width="50%">
       <!-- Icons -->
       <div>
