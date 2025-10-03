@@ -14,10 +14,10 @@
 
 ###
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="50%">
-      <!-- Skills-Icons -->
+      <!-- Icons -->
       <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="56" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="56" />
