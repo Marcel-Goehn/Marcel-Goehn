@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">🕷️Creating bugs since 2024<br>🧙‍♂️Wizard in frontend development<br>🔭I'm currently learning backend development<br>💬Ask me about potential collaborations<br>🎯My goals: To be a fullstack developer</p>
+<p align="left">🕷️Creating bugs since 2024<br>🧙‍♂️Wizard in Fullstack development<br>💬Ask me about potential collaborations</p>
 
 ###
 
