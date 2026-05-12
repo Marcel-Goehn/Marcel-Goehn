@@ -25,10 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="56" />
 </p>
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcel-Goehn&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
-</p>
-
 ###
 
 <h2 align="left">About me</h2>
