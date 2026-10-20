@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📌I'm a fullstack developer from Aurich, Germany.</p>
+<p align="left">📌I'm an AI & Cloud engineer from Aurich, Germany.</p>
 
 ###
 
